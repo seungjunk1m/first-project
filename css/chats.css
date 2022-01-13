@@ -1,11 +1,11 @@
 .chats .chats__list {
-  border-top: 1px solid #ebebeb;
-  border-bottom: 1px solid #ebebeb;
+  border-top: 1px solid #ffffff;
+  border-bottom: 1px solid #ffffff;
 }
 
 .chats__list .chats__chat {
   padding: 15px;
-  border-bottom: 1px solid #ebebeb;
+  border-bottom: 1px solid #ffffff;
 }
 
 .chats__list .chats__chat:last-child {
@@ -48,7 +48,7 @@
 .chat-btn {
   width: 60px;
   height: 60px;
-  background-color: #ffe94a;
+  background-color: #fffb05;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -64,6 +64,6 @@
 
 .chat-btn:hover {
   color: white;
-  background: #523737;
+  background: #fffb05;
   transform: rotateY(1turn);
 }
